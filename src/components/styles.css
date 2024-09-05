@@ -1,0 +1,107 @@
+/* Header Styling */
+.header-container {
+    background-color: #343a40; /* Darker background for better contrast */
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+  }
+  
+  .header-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .nav-list {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .nav-item {
+    font-size: 1rem;
+  }
+  
+  .nav-item a {
+    text-decoration: none;
+    color: white; /* Match header text color */
+  }
+  
+  .nav-item a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Home Page Styling */
+  .home-container {
+    padding: 2rem;
+  }
+  
+  .productContainer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+  }
+  
+  .product-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 1rem;
+    text-align: center;
+    width: 100%; /* Adjust width to fit Bootstrap column */
+    max-width: 18rem; /* Ensure card size consistency */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add subtle shadow */
+  }
+  
+  .product-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .productDesc {
+    margin-top: 1rem;
+  }
+  
+  .product-name {
+    display: block;
+    font-weight: bold;
+    font-size: 1.1rem; /* Slightly larger font size */
+  }
+  
+  .product-price {
+    color: #28a745;
+    font-size: 1.2rem;
+  }
+  
+  /* Button Styling */
+  .btn {
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background-color 0.3s, box-shadow 0.3s; /* Smooth transition */
+  }
+  
+  .btn.add {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  .btn.add:hover {
+    background-color: #0056b3;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add shadow on hover */
+  }
+  
+  .btn.remove {
+    background-color: #dc3545;
+    color: white;
+  }
+  
+  .btn.remove:hover {
+    background-color: #c82333;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add shadow on hover */
+  }
+  
