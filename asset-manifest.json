@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Context-Shopping-App/static/css/main.5ee5685b.css",
-    "main.js": "/Context-Shopping-App/static/js/main.51692346.js",
+    "main.js": "/Context-Shopping-App/static/js/main.43d72d56.js",
     "index.html": "/Context-Shopping-App/index.html",
     "main.5ee5685b.css.map": "/Context-Shopping-App/static/css/main.5ee5685b.css.map",
-    "main.51692346.js.map": "/Context-Shopping-App/static/js/main.51692346.js.map"
+    "main.43d72d56.js.map": "/Context-Shopping-App/static/js/main.43d72d56.js.map"
   },
   "entrypoints": [
     "static/css/main.5ee5685b.css",
-    "static/js/main.51692346.js"
+    "static/js/main.43d72d56.js"
   ]
 }
