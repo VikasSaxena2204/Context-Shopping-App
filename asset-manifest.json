@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Context-Shopping-App/static/css/main.5ee5685b.css",
+    "main.js": "/Context-Shopping-App/static/js/main.51692346.js",
+    "index.html": "/Context-Shopping-App/index.html",
+    "main.5ee5685b.css.map": "/Context-Shopping-App/static/css/main.5ee5685b.css.map",
+    "main.51692346.js.map": "/Context-Shopping-App/static/js/main.51692346.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ee5685b.css",
+    "static/js/main.51692346.js"
+  ]
+}
